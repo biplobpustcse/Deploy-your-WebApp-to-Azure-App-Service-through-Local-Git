@@ -47,6 +47,8 @@ Here app name "testdempapp"
 4. PS F:\Practice Project\.NET 8.0\DemoDotNet8AppForAzureWebHostiog> git remote add azure https://testdempapp-fbhhcfd9csdngdg4.scm.eastus-01.azurewebsites.net:443/TestDempApp.git
 5. PS F:\Practice Project\.NET 8.0\DemoDotNet8AppForAzureWebHostiog> git push -u azure master
 
+![image](https://github.com/user-attachments/assets/f1edf832-6a88-498f-9b97-50125f639385)
+
 remote: Deployment successful.
 
 Go to your azure portal and check your application is deployed successfully.
