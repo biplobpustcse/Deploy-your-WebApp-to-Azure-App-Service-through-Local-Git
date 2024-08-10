@@ -4,14 +4,13 @@
 Azure App Service is a platform as a service (PAAS) offering from Microsoft Azure that allows you to deploy Webapps, Mobile backends, and Restful APIs in any programming language of your choice without managing infrastructure.
 
 The following illustration shows the deployed application.
+
 ![image](https://github.com/user-attachments/assets/d8f845be-f9cb-4399-a1a5-ebe1fabd7478)
 
 ## Prerequisites
 
-Visual Studio(Visual Studio Code)
-.NET 8.0 LTS
-Active Azure Account
-Github Account
+1. Visual Studio(Visual Studio Code)
+2. .NET 8.0 LTS
 
 We have the source code on this repository. The source code is a basic AspNet WebApi project so you could create one and use that for this tutorial.
 
