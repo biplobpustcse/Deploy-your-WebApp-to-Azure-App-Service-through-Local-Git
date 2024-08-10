@@ -41,11 +41,12 @@ Here app name "testdempapp"
 #### Open windows PowerShell
 ![image](https://github.com/user-attachments/assets/81599e64-64be-4162-8df8-c4281eb7a4ee)
 
-PS F:\Practice Project\.NET 8.0\DemoDotNet8AppForAzureWebHostiog> git init
-PS F:\Practice Project\.NET 8.0\DemoDotNet8AppForAzureWebHostiog> git add .
-PS F:\Practice Project\.NET 8.0\DemoDotNet8AppForAzureWebHostiog> git commit -m "first"
-PS F:\Practice Project\.NET 8.0\DemoDotNet8AppForAzureWebHostiog> git remote add azure https://testdempapp-fbhhcfd9csdngdg4.scm.eastus-01.azurewebsites.net:443/TestDempApp.git
-PS F:\Practice Project\.NET 8.0\DemoDotNet8AppForAzureWebHostiog> git push -u azure master
+1. PS F:\Practice Project\.NET 8.0\DemoDotNet8AppForAzureWebHostiog> git init
+2. PS F:\Practice Project\.NET 8.0\DemoDotNet8AppForAzureWebHostiog> git add .
+3. PS F:\Practice Project\.NET 8.0\DemoDotNet8AppForAzureWebHostiog> git commit -m "first"
+4. PS F:\Practice Project\.NET 8.0\DemoDotNet8AppForAzureWebHostiog> git remote add azure https://testdempapp-fbhhcfd9csdngdg4.scm.eastus-01.azurewebsites.net:443/TestDempApp.git
+5. PS F:\Practice Project\.NET 8.0\DemoDotNet8AppForAzureWebHostiog> git push -u azure master
+
 remote: Deployment successful.
 
 Go to your azure portal and check your application is deployed successfully.
