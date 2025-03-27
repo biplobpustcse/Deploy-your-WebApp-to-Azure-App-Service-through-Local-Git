@@ -16,8 +16,8 @@ We have the source code on this repository. The source code is a basic AspNet We
 
 Excersice 1: Create Azure App Service on Azure
 
-### Option 01. 
-Sign in to your Azure account at https://portal.azure.com. If you do not already have one, create an account to get a $200 Azure credit. You’ll have 30days to use this credit in addition to free resources available on the portal.
+## Option 01. 
+Sign in to your Azure account at https://portal.azure.com. **If you do not already have one, create an account** to get a $200 Azure credit. You’ll have 30days to use this credit in addition to free resources available on the portal.
 ## Requirements
 - A **Dual Currency Card** is required.
 - Your **passport must be endorsed with your bank account** with approximately **$3,000–$4,000 USD (amount may vary based on your needs)**.
@@ -25,7 +25,7 @@ Sign in to your Azure account at https://portal.azure.com. If you do not already
 - I am using an **EBL (Eastern Bank PLC) VISA debit card**, which allows international transactions in **BDT to USD or other currencies (So there is no headache about doller in your accounts)**.
 
 
-### Option 02. 
+## Option 02. 
 Sign in to your Azure account at https://portal.azure.com. You can use crome browser in Incognito mode.Go to google.com then search "Azure learning" then click browseAll then search "Azure web hosting" ..... You can learn more detail about this if you do not know this.
 
 When signed in, Go to the App Service Deployment page. then click on create.
